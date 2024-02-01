@@ -1,4 +1,5 @@
-# System-Architecture
+# Distributed System Architecture
+
 课程：高级计算机体系结构2020，吴俊敏老师，中科大研究生课程
 
 这里记录了这门课的一些资料：
@@ -6,6 +7,16 @@
 1. 我的课程笔记：
 
 <img src="README.assets/image-20200708211934768.png" alt="image-20200708211934768" style="zoom:50%;" />
+
+Cache coherence上课记的笔记有问题，参考如下材料：
+
+（1）[什么是cache一致性](https://zhuanlan.zhihu.com/p/417487200)
+
+（2）[单机Snoop方案](https://zhuanlan.zhihu.com/p/417949142)
+
+（2.1）[write thru/write back、MESI协议详谈](https://www.xiaolincoding.com/os/1_hardware/cpu_mesi.html#cpu-cache-的数据写入)
+
+（3）[分布式Directory方案](https://zhuanlan.zhihu.com/p/419722803)
 
 2. 作业
 
